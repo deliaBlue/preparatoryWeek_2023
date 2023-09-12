@@ -11,9 +11,9 @@ go back to classes and what's worst, classes before the official ones! We ask
 you to make an effort, this is really going to help you out.
 
 Along the 10 scheduled hours we will cover vaguely how to work with GitHub and
-`Vim`. We will do a small recap on `C` and introduce `C++` along with
+`Vim`. We will do a small introduction to `C++` along with
 `psuedocode`. We will get a bit more technical by talking about memory
-allocation and its related errors in `C` and `C++`, ending the week with a
+allocation and its related errors in `C++`, ending each day with a
 little bit of `Biopython`.
 
 It sounds like a lot and, in fact, it is. Knowing that, we will try to make it
