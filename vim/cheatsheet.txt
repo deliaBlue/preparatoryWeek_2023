@@ -1,0 +1,74 @@
+
+IN/OUT of VIM
+-------------------------------------------------------------------------------
+
+Exit -> :q
+Exit and Write -> :wq
+Exit NO write -> :q!
+
+
+IN/OUT MODES
+-------------------------------------------------------------------------------
+
+To NORMAL mode 
+               -> <Ctrl-C>
+               -> <<Esc>
+
+To INSERT mode
+        Insert -> i
+        Append -> a
+        Open line (bellow) -> o
+        Open line (above) -> O
+
+To VISUAL mode
+        Visual -> v
+        Visual LINE -> V
+        Visual Block -> <
+
+
+MOTIONS
+-------------------------------------------------------------------------------
+
+Basic movements
+        Left ->  h
+        Down ->  j
+        Up ->    k
+        Right -> l
+
+HORIZONTAL motions
+        Start of line -> 0
+        Start of previous word -> b
+        Start of next word -> w
+        End of next word -> e
+        End of the line -> $
+
+VERTICAL motions
+        Beginning of the file -> gg
+        X line -> :X <enter>
+               -> XG
+        End of the file -> G
+
+
+OPERATORS
+-------------------------------------------------------------------------------
+
+Yank
+        Yank whole line -> yy
+        Yank specific amount of text -> y + count + motion
+        Yank selected text -> VISUAL mode + y
+
+Delete
+        Delete whole line -> dd
+        Delete UNTIL the end of the line -> D
+        Delete the char under the cursor -> x
+        Delete selected text -> VISUAL mode + d
+Paste
+        Paste after the cursor -> p
+        Paste before the cursor -> P
+
+
+SEARCH and REPLACE
+-------------------------------------------------------------------------------
+
+         Search in the whole file, replace all -> :%s/old_term/new_term/g
+         Search in the whole file, ask confirmation -> :%s/old_term/new_term/gc
