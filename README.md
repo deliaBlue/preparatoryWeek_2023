@@ -283,7 +283,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-
+**Jan Izquierdo(Janek21)**: Someone help Adria
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
