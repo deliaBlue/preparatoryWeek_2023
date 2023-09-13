@@ -281,6 +281,10 @@ And finally, you are ready to go! Or at least you should be...
 
 **Iris Mestres** | [Contact me][deliaBlue]
 
+### Junior Contributors
+
+
+
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
 [deliaBlue]: <iris.mestres@alum.esci.upf.edu>
