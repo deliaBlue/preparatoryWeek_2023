@@ -283,7 +283,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-**Jan Izquierdo(Janek21)**: Someone help Adria
+**Jan Izquierdo** | [Janek21][Janek21] | Someone help Adria
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
@@ -292,4 +292,5 @@ And finally, you are ready to go! Or at least you should be...
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
+[Janek21]: <https://github.com/Janek21/>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
