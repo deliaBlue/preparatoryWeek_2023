@@ -284,6 +284,8 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
+Joan Lloret(JDLloret):| I tried so hard and got it wrong
+
 
 
 
