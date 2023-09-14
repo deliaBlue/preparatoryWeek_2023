@@ -284,10 +284,36 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
+**Gemma Sagastegui** | [<gemma.sagastegui@alum.esci.upf.edu>][sagggastegui] | CoffeeL. 
+
+[sagggastegui] : <https://github.com/deliaBlue>
 
 
 
-[AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
 [deliaBlue]: <iris.mestres@alum.esci.upf.edu>
 [diego-benito-j]: <diego.benito@alum.esci.upf.edu>
 [gitcli]: <https://cli.github.com/>
