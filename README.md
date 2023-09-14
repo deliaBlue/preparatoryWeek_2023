@@ -282,8 +282,7 @@ And finally, you are ready to go! Or at least you should be...
 **Iris Mestres** | [Contact me][deliaBlue]
 
 ### Junior Contributors
-**Stephanie Padilla** | [MStephPad] [MStephPad] 
-[MStephPad]: <https://github.com/MstephPad>
+**Stephanie Padilla** | [MStephPad] [MStephPad] | Coffee is life.
 
 
 
@@ -293,4 +292,5 @@ And finally, you are ready to go! Or at least you should be...
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
+[MStephPad]: <https://github.com/MstephPad>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
