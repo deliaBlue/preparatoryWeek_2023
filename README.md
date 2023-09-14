@@ -283,7 +283,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-**Lucas Silva** | [brachingo] | I love driving, I have an Opel Corsa Sport
+**Lucas Silva** | [Brachingo][Brachingo] | I love driving, I have an Opel Corsa Sport
 and a Kawasaki, and driving them makes me feel free
 
 [brachingo]: <https://github.com/brachingo>
@@ -296,3 +296,5 @@ and a Kawasaki, and driving them makes me feel free
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
+[brachingo]: <https://github.com/brachingo>
+
