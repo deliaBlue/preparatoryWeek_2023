@@ -283,7 +283,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-
+**Irene Porta** | [IrenePorta][IrenePorta] | I'm a chill person, my mind is not. 
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
@@ -292,4 +292,5 @@ And finally, you are ready to go! Or at least you should be...
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
+[IrenePorta]: <https://github.com/IrenePorta>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
