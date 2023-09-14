@@ -282,6 +282,7 @@ And finally, you are ready to go! Or at least you should be...
 **Iris Mestres** | [Contact me][deliaBlue]
 
 ### Junior Contributors
+**Ricard Garcia* |[Contact me][rigais23] | Llívia capital del món!
 
 
 
