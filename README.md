@@ -283,7 +283,8 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-
+**Alexandra Caus** | [alexcaus03][alexcaus03]
+[alexcaus03]: <https://github.com/alexcaus03>
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
