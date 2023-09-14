@@ -283,6 +283,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
+**Laia Barcenilla** | [laiabm04][laiabm04] | I play tennis.
 
 
 
@@ -292,4 +293,7 @@ And finally, you are ready to go! Or at least you should be...
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
+[laiabm04]: <https://github.com/laiabm04>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
+
+
