@@ -288,11 +288,11 @@ Sport and a Kawasaki, and driving them makes me feel free
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
+[Brachingo]: <https://github.com/brachingo>
 [deliaBlue]: <iris.mestres@alum.esci.upf.edu>
 [diego-benito-j]: <diego.benito@alum.esci.upf.edu>
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
-[brachingo]: <https://github.com/brachingo>
 
