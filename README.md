@@ -282,7 +282,8 @@ And finally, you are ready to go! Or at least you should be...
 **Iris Mestres** | [Contact me][deliaBlue]
 
 ### Junior Contributors
-
+**Stephanie Padilla** | [MStephPad] [MStephPad] 
+[MStephPad]: <https://github.com/MstephPad>
 
 
 
