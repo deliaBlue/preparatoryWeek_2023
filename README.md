@@ -284,7 +284,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-**Maria Lopez** | [Contact me][MLM19]
+**Maria Lopez** | [Contact me][MLM19] | No loses, with each crisis I either succeed or learn. 
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
