@@ -281,9 +281,13 @@ And finally, you are ready to go! Or at least you should be...
 
 **Iris Mestres** | [Contact me][deliaBlue]
 
+**T**
+
 ### Junior Contributors
 
-
+**Tassnime Reddahi: Let me infect you with some of my positive eneregy**
+ |[Tassnimered] <https://github.com/Tassnimered>
+ 
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
