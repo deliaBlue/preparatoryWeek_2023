@@ -282,6 +282,9 @@ And finally, you are ready to go! Or at least you should be...
 **Iris Mestres** | [Contact me][deliaBlue]
 
 ### Junior Contributors
+**Carmen Samedi** [carmensat][carmensat] follow the white rabbit 
+
+[carmensat]:<https://github.com/carmensat>
 
 
 
