@@ -29,9 +29,10 @@ preparatory week. We hope you enjoy these days as much as we did preparing them!
 ## Things To See Here
 
 1. [Installation and Configuration](#installation)
-    - [Installation for the Penguin Club](#linux)
+    - [Installation for The Penguin Club](#linux)
     - [Installation For The Half-apple Cult](#macos)
-2. [The coolest team ever!](#contributors)
+2. [The Coolest Team Ever!](#contributors)
+   - [The Juniors also Rock!](#junior)
 
 
 ## Installation
@@ -132,7 +133,7 @@ Second Question: `What is your preferred protocol for Git operations?`
 `SSH`
 
 Third Question: `Upload your SSH public key to your GitHub account?`  
-`/home/YOUR_USER_NAME/.ssh(id_ed25519.pub`
+`/home/YOUR_USER_NAME/.ssh/id_ed25519.pub`
 
 Fourth Question: `Title for your SSH key:`  
 `key_name`
@@ -255,7 +256,7 @@ Second Question: `What is your preferred protocol for Git operations?`
 `SSH`
 
 Third Question: `Upload your SSH public key to your GitHub account?`  
-`/home/YOUR_USER_NAME/.ssh(id_ed25519.pub`
+`/home/YOUR_USER_NAME/.ssh/id_ed25519.pub`
 
 Fourth Question: `Title for your SSH key:`  
 `key_name`
