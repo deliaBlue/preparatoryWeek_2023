@@ -283,7 +283,9 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
+**Jaume Jurado** | [Contact me][JJS1440] | Phrase bla bla bla...
 
+[JJS1440]: <https://github.com/JJS1440>
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
