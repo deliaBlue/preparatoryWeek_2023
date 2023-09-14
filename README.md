@@ -283,7 +283,7 @@ And finally, you are ready to go! Or at least you should be...
 **Iris Mestres** | [Contact me][deliaBlue]
 
 ### Junior Contributors
-
+**Paula Martín** | [paulamartin14][paulamartin14] | I haven't slept much tonight
 
 
 
@@ -294,3 +294,4 @@ And finally, you are ready to go! Or at least you should be...
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
+[paulamartin14]: <https://github.com/paulamartin14>
