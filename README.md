@@ -281,12 +281,13 @@ And finally, you are ready to go! Or at least you should be...
 
 **Iris Mestres** | [Contact me][deliaBlue]
 
-**T**
+
 
 ### Junior Contributors
 
-**Tassnime Reddahi: Let me infect you with some of my positive eneregy**
- |[Tassnimered] <https://github.com/Tassnimered>
+**Tassnime Reddahi** | [Tassnimered] |
+"Let me infect you with some of my positive energy"
+[Tassnimered] <https://github.com/Tassnimered>
  
 
 
