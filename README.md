@@ -283,8 +283,9 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
+**Eira Fontanals** | [eirafontanals][eirafontanals] | I am an easy laughter person.
 
-
+[eirafontanals]: <https://github.com/eirafontanals>
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
 [deliaBlue]: <iris.mestres@alum.esci.upf.edu>
