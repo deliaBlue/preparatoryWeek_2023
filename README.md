@@ -33,6 +33,8 @@ preparatory week. We hope you enjoy these days as much as we did preparing them!
     - [Installation For The Half-apple Cult](#macos)
 2. [The coolest team ever!](#contributors)
 
+Notes: insert mode: i;
+Undo: u 
 
 ## Installation
 
@@ -282,7 +284,10 @@ And finally, you are ready to go! Or at least you should be...
 **Iris Mestres** | [Contact me][deliaBlue]
 
 ### Junior Contributors
+**Antonio Arcas** | [Contact me][oprana22] | Daisy thought that Comet was a
+planet.
 
+[oprana22]: <https://github.com/oprana22> 
 
 
 
