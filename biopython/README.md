@@ -382,7 +382,7 @@ more information in the [NCBI][#NCBItable] cite. It looks the following:
 
 <br>
 <p align="left">
-  <img width='390' height='400' src="https://github.com/AlbaJimLup/myTesting/assets/103122258/c124bae6-1454-4d2f-abdd-30fda21b6030">
+  <img width='390' height='400' src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103122258/8a880dfe-9a6a-45ce-be62-9677986a9ac2">
 </p>
 
 >Note: The _codons_ variable has its own set of useful attributes. For example
