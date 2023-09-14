@@ -284,7 +284,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-
+**Sergi Ocaña** | [Lord1112][Lord1112] | It's Corolla showtime
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
@@ -293,4 +293,5 @@ And finally, you are ready to go! Or at least you should be...
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
+[Lord1112]: <https://github.com/Lord1112>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
