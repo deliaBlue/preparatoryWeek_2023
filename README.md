@@ -283,7 +283,10 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
+**Lucas Silva** | [brachingo] | I love driving, I have an Opel Corsa Sport
+and a Kawasaki, and driving them makes me feel free
 
+[brachingo]: <https://github.com/brachingo>
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
