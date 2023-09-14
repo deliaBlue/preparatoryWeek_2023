@@ -293,3 +293,4 @@ And finally, you are ready to go! Or at least you should be...
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
+[paulamartin14]: <https://github.com/paulamartin14>
