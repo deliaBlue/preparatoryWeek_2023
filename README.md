@@ -32,7 +32,7 @@ preparatory week. We hope you enjoy these days as much as we did preparing them!
     - [Installation for The Penguin Club](#linux)
     - [Installation For The Half-apple Cult](#macos)
 2. [The Coolest Team Ever!](#contributors)
-   - [The Juniors also Rock!](#junior)
+   - [The Juniors also Rock!](#junior-contributors)
 
 
 ## Installation
