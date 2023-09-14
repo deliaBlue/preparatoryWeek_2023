@@ -283,6 +283,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
+**Jan Carreras** | [Contact me][JanCarreras24] | Terrassa, capital del vallès occidental
 
 
 
@@ -292,4 +293,5 @@ And finally, you are ready to go! Or at least you should be...
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
+[JanCarreras24]: <https://github.com/JanCarreras24>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
