@@ -283,11 +283,10 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-**Alexandra Caus** | [alexcaus03][alexcaus03]
-[alexcaus03]: <https://github.com/alexcaus03>
-
+**Alexandra Caus** | [alexcaus03][alexcaus03] | I like basketball
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
+[alexcaus03]: <https://github.com/alexcaus03>
 [deliaBlue]: <iris.mestres@alum.esci.upf.edu>
 [diego-benito-j]: <diego.benito@alum.esci.upf.edu>
 [gitcli]: <https://cli.github.com/>
