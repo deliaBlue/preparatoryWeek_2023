@@ -283,10 +283,11 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-
+**Bruno Alvarez** | [contact me][brunoalvarez5] | La vida es una Tombola
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
+[brunoalvarez5]: <https://github.com/brunoalvarez5>
 [deliaBlue]: <iris.mestres@alum.esci.upf.edu>
 [diego-benito-j]: <diego.benito@alum.esci.upf.edu>
 [gitcli]: <https://cli.github.com/>
