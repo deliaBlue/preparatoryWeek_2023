@@ -15,7 +15,7 @@ don't use `Vim`, on the right, the steps to take when you do use `Vim`.
 
 <br>
 <p align="center">
-  <img width='360' height='400' src="https://github.com/deliaBlue/laPrepa/assets/103108590/7df60816-80dc-4831-bc41-619c91ec76fc">
+  <img width='360' height='400' src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/213b780d-4255-4fbb-b94f-bf8a15759478">
 </p>
 
 
@@ -66,7 +66,7 @@ Your screen will look something like this
 
 
 <p align="center">
-   <img width="460" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/caf1c52e-7d41-4336-9240-a787f4095c26">
+   <img width="460" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/c5405773-28e7-4a18-9ae7-71768d020edd">
 </p>
 
 The white square indicates the cursor position while the tilde (`~`) lines
@@ -110,13 +110,13 @@ these three (and most probable only with `i`). You will know you are in the
 `--INSERT--`.
 
 <p align="center">
-   <img width="460" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/5efc3c54-6924-4ea5-8537-404cd81067e8">
+   <img width="460" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/72c12adc-dead-4fb1-8e8d-2757e33e08b8">
 </p>
 
 Now you can write whatever you fancy, for instance...
 
 <p align="center">
-   <img width="460" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/5c4ded77-cc42-4e4e-a952-6a39f404c1a5">
+   <img width="460" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/a4770c44-509a-4579-be60-8d73f9ee76fe">
 </p>
 
 
@@ -152,7 +152,7 @@ are selected, instead of the actual square you would see on your terminal,
 that character(s) will be underlined.
 
 <p align="center">
-   <img width="460" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/02533d75-199b-44ab-8516-f46c8d428e01">
+   <img width="460" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/205bcd46-88d0-415e-b9a0-a0e3ab865ebc">
 </p>
 
 
@@ -160,7 +160,7 @@ If you now move, the positions you are passing by will also be selected:
 
 
 <p align="center">
-   <img width="460" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/01250533-a138-4a3b-a2e0-1325a78127ca">
+   <img width="460" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/67de7fbb-6dcd-400c-b3b6-c2da42f365c3">
 </p>
 
 
@@ -169,7 +169,7 @@ selected (for instance, the second one) and `Vim` will display in the
 bottom of the window the following:
 
 <p align="center">
-   <img width="460" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/e9a94773-c8dd-47f1-8bc9-15d31e2e7937">
+   <img width="460" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/13ed8583-dbe8-42b7-879e-86914f169d92">
 </p>
 
 
@@ -178,15 +178,15 @@ selected (for instance, the `f` from `funny`) and `Vim` will display in the
 bottom of the window the following:
 
 <p align="center">
-   <img width="460" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/09ce8622-afdd-436a-8d99-ff1d749a736c">
+   <img width="460" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/51ebb68c-172e-4fbf-b86e-4c45b5c51204">
 </p>
 
 
 Now, suppose you move one position to the left and to the upper line. Only the
-four positions in that square will be the only ones selected:
+four positions in that square will be selected:
 
 <p align="center">
-   <img width="460" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/899d9d83-eeb5-4617-b9d9-bdd2c4ca5c9c">
+   <img width="460" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/df8d098e-166c-4bf3-aa44-0537063297ba">
 </p>
 
 
@@ -213,7 +213,7 @@ Now, if you enter **Replace mode** with `R`, the first thing you will see is
 the **mode** in the bottom of your screen.
 
 <p align="center">
-   <img width="460" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/f96f4041-63e2-4628-ad9b-b726d772dd95">
+   <img width="460" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/2e333d42-e16b-4e5d-84c7-9bd42990d67e">
 </p>
 
 Now, every key you press (except for the arrows and `<ESC>`) will change the
@@ -257,7 +257,7 @@ similar to a down arrow or think of this diagram:
 <br>
 
 <p align="center">
-  <img width='160' height='170' src="https://github.com/deliaBlue/laPrepa/assets/103108590/57cf0d93-4300-490b-a534-71aa506e98f7">
+  <img width='160' height='170' src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/2a799533-9265-405c-bc31-2ef4a5795c1c">
 </p>
 
 Moving one character/line at a time does not seduce you at all, I know, and
@@ -268,7 +268,7 @@ and you wanted to go to the `T`, you could press `hhhh` or you could type
 `4h`.
 
 <p align="center">
-  <img width='460' height='300' src="https://github.com/deliaBlue/laPrepa/assets/103108590/7778215c-2525-4e38-aa47-8d0bd96eff36">
+  <img width='460' height='300' src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/5ccc662e-8259-4c04-8c23-fd8989c3d605">
 </p>
 
 Again, using the arrow keys is fine, but you should get used to this way of
@@ -327,8 +327,8 @@ and if you want to go to the `T` in `True`, you can either type `wwww` or `4w`.
 
 <p align="center">
 
-<img src="https://github.com/deliaBlue/laPrepa/assets/103108590/7b339983-7a0c-4d6f-8b93-7324c4a5d5b8" style="width:49%">
-<img src="https://github.com/deliaBlue/laPrepa/assets/103108590/f4f39dbd-7536-4733-991e-0416ec672699" style="width:49%">
+<img src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/453b342b-9e08-410c-9536-223fb28216ae" style="width:49%">
+<img src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/435e7d12-d0b5-4d94-9850-8093de08809c" style="width:49%">
 
 </p>
 
@@ -350,7 +350,7 @@ how your cursor would behave.
 
 
 <p align="center">
-  <img width='460' height='300' src="https://github.com/deliaBlue/laPrepa/assets/103108590/7ff61909-7d4c-451c-96db-1ab64925add4">
+  <img width='460' height='300' src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/48669140-e09c-4c2d-8a4c-0dcb51e6c37d">
 </p>
 
 <table style="padding-left: 150px;padding-right:150px;">
@@ -393,7 +393,7 @@ bottom of the file `gg` is typed.
 
 
 <p align="center">
-  <img width='460' height='300' src="https://github.com/deliaBlue/laPrepa/assets/103108590/26e80dfd-4c30-48e2-b33f-01460e8af23b">
+  <img width='460' height='300' src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/369bf16a-fd28-437d-9934-498f07cadac3">
 </p>
 
 > NOTE: You can also jump to a particular line with `:line_number`.
@@ -419,8 +419,8 @@ Bellow there's a representation of what these **motions** do. There's no fancy
 shell this time, but you can get the concept.
 
 <p align="center">
-<img src="https://github.com/deliaBlue/laPrepa/assets/103108590/a883d3f5-9514-4052-a45d-dfcfc09d48d6" style="width:48%">
-<img src="https://github.com/deliaBlue/laPrepa/assets/103108590/e38ed2b1-258a-4eb3-baef-f95b231828b4" style="width:51%">
+<img src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/7a4aadfc-2368-43b4-afff-ce40356849f0" style="width:48%">
+<img src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/084c7ecf-45a7-4449-b7b6-bc8c94f149e1" style="width:51%">
 </p>
 
 ---
@@ -538,14 +538,14 @@ yank the line you are in, the conditional and the blank line above you type
 will appear in the bottom of the screen.
 
 <p align="center">
-   <img width="760" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/9ebb92b2-f918-475f-b416-738bca205234">
+   <img width="760" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/c0656fa2-42e7-4be8-8129-6b24153bc9dd">
 </p>
 
 Then, you return to the initial position (maybe with `3$`) and then paste with
 `p` what you have just yanked. See the message in the bottom of the screen.
 
 <p align="center">
-   <img width="760" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/9ee9da97-2d6d-4555-9ddd-8c0ad2b3951d">
+   <img width="760" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/4f9197be-3d90-4aab-ac94-47051c0f6040">
 </p>
 
 Now you just have to add `el` in front of the `if`, replace the `>` by a `<`
@@ -650,7 +650,7 @@ and type `3dd` (which is the same as `d3j`).
 
 
 <p align="center">
-   <img width="760" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/9741829a-fc1d-42c1-8e28-3a8a3b0143cd">
+   <img width="760" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/5c3b5fa0-700c-4050-9bdd-e53bc04a6014">
 </p>
 
 
@@ -790,7 +790,7 @@ function definition statement, so you put your cursor in that line. Once there
 to change the `x` and `y` names, you just write `ci(`.
 
 <p align="center">
-   <img width="760" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/6ed7c289-48ee-4df0-be18-1e4e28fee1e2">
+   <img width="760" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/8e3ca4df-fdde-4bc4-ab5d-b1848723e5b2">
 </p>
 
 Everything between the parenthesis has been removed, the cursor is after the
@@ -976,7 +976,7 @@ the first one with `2N`. The `X` indicates the line in which the cursor is
 after the **command**.
 
 <p align="center">
-   <img width="800" height="220" src="https://github.com/deliaBlue/laPrepa/assets/103108590/93de0fe7-4851-4206-b164-c0290a03ac85">
+   <img width="800" height="220" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/34f6c6e2-914e-4fab-b8e4-afa4829b02ac">
 </p>
 
 When you press `/`, it will be typed  at the bottom of the screen, and the
@@ -1086,7 +1086,7 @@ start with _s_. Therefore, you type `:%s/s/size/gc`, and have this screen:
 
 
 <p align="center">
-   <img width="460" height="300" src="https://github.com/deliaBlue/laPrepa/assets/103108590/58c667ae-f87f-4b42-9822-2e33c81d1e14">
+   <img width="460" height="300" src="https://github.com/deliaBlue/preparatoryWeek_2023/assets/103108590/1f1d8783-4214-447c-a34e-f0b553dc1853">
 </p>
 
 The provided options are:

@@ -29,10 +29,10 @@ preparatory week. We hope you enjoy these days as much as we did preparing them!
 ## Things To See Here
 
 1. [Installation and Configuration](#installation)
-    - [Installation for the Penguin Club](#linux)
+    - [Installation for The Penguin Club](#linux)
     - [Installation For The Half-apple Cult](#macos)
-2. [The coolest team ever!](#contributors)
-
+2. [The Coolest Team Ever!](#contributors)
+    - [The Juniors also Rock!](#junior-contributors)
 
 ## Installation
 
@@ -132,7 +132,7 @@ Second Question: `What is your preferred protocol for Git operations?`
 `SSH`
 
 Third Question: `Upload your SSH public key to your GitHub account?`  
-`/home/YOUR_USER_NAME/.ssh(id_ed25519.pub`
+`/home/YOUR_USER_NAME/.ssh/id_ed25519.pub`
 
 Fourth Question: `Title for your SSH key:`  
 `key_name`
@@ -255,7 +255,7 @@ Second Question: `What is your preferred protocol for Git operations?`
 `SSH`
 
 Third Question: `Upload your SSH public key to your GitHub account?`  
-`/home/YOUR_USER_NAME/.ssh(id_ed25519.pub`
+`/home/YOUR_USER_NAME/.ssh/id_ed25519.pub`
 
 Fourth Question: `Title for your SSH key:`  
 `key_name`
@@ -281,8 +281,15 @@ And finally, you are ready to go! Or at least you should be...
 
 **Iris Mestres** | [Contact me][deliaBlue]
 
+
 ### Junior Contributors
 
+**Antonio Arcas** | [Contact me][oprana22] | Daisy thought that Comet was a
+planet.
+
+**Tassnime Reddahi** | [Tassnimered]"Let me infect you with some of my positive
+ energy"
+ 
 **Irene Porta** | [IrenePorta][IrenePorta] | I'm a chill person, my mind is not. 
 
 
@@ -293,4 +300,6 @@ And finally, you are ready to go! Or at least you should be...
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
 [IrenePorta]: <https://github.com/IrenePorta>
+[oprana22]: <https://github.com/oprana22> 
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
+[Tassnimered]: <https://github.com/Tassnimered>
