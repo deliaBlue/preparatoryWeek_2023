@@ -283,7 +283,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-Joan Lloret(JDLloret):| I tried so hard and got it wrong
+**Joan Lloret** | [JDLloret][JDLloret] :| I tried so hard and got it wrong
 
 
 
@@ -294,4 +294,5 @@ Joan Lloret(JDLloret):| I tried so hard and got it wrong
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
+[JDLloret]: <https://github.com/JDLloret>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
