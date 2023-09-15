@@ -285,9 +285,8 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-**Tassnime Reddahi** | [Tassnimered] |
-"Let me infect you with some of my positive energy"
-[Tassnimered] <https://github.com/Tassnimered>
+**Tassnime Reddahi** | [Tassnimered]"Let me infect you with some of my positive
+ energy"
  
 
 
@@ -298,3 +297,4 @@ And finally, you are ready to go! Or at least you should be...
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
+[Tassnimered]: <https://github.com/Tassnimered>
