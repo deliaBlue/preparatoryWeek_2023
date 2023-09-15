@@ -283,7 +283,9 @@ And finally, you are ready to go! Or at least you should be...
 **Iris Mestres** | [Contact me][deliaBlue]
 
 ### Junior Contributors
+**Taras Yuziv** | [tarasyuzivduda][tarasyuzivduda] | You can always choose to be kind in this world.
 
+[tarasyuzivduda]: <https://github.com/tarasyuzivduda>
 
 
 
