@@ -285,11 +285,11 @@ And finally, you are ready to go! Or at least you should be...
 
 **Eira Fontanals** | [eirafontanals][eirafontanals] | I am an easy laughter person.
 
-[eirafontanals]: <https://github.com/eirafontanals>
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
 [deliaBlue]: <iris.mestres@alum.esci.upf.edu>
 [diego-benito-j]: <diego.benito@alum.esci.upf.edu>
+[eirafontanals]: <https://github.com/eirafontanals>
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
