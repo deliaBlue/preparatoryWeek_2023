@@ -276,46 +276,20 @@ And finally, you are ready to go! Or at least you should be...
 **Alba Jiménez** | [Contact me][AlbaJimLup]
 
 **Diego Benito** | [Contact me][diego-benito-j]
-
+ 
 **Ian Perez** | [Contact me][IPerM]
 
 **Iris Mestres** | [Contact me][deliaBlue]
 
 ### Junior Contributors
 
-**Gemma Sagastegui** | [<gemma.sagastegui@alum.esci.upf.edu>][sagggastegui] | CoffeeL. 
+**Gemma Sagastegui** | [sagggastegui][sagggastegui] | CoffeeL. 
 
-[sagggastegui] : <https://github.com/deliaBlue>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
+[AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
 [deliaBlue]: <iris.mestres@alum.esci.upf.edu>
 [diego-benito-j]: <diego.benito@alum.esci.upf.edu>
-[gitcli]: <https://cli.github.com/>
+[gitcli]: <https://cli.github.com/> 
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
+[sagggastegui]: <https://github.com/sagggastegui> 
