@@ -281,12 +281,15 @@ And finally, you are ready to go! Or at least you should be...
 
 **Iris Mestres** | [Contact me][deliaBlue]
 
+
 ### Junior Contributors
+
 **Antonio Arcas** | [Contact me][oprana22] | Daisy thought that Comet was a
 planet.
 
-[oprana22]: <https://github.com/oprana22> 
-
+**Tassnime Reddahi** | [Tassnimered]"Let me infect you with some of my positive
+ energy"
+ 
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
@@ -295,4 +298,6 @@ planet.
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
+[oprana22]: <https://github.com/oprana22> 
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
+[Tassnimered]: <https://github.com/Tassnimered>
