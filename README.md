@@ -284,7 +284,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 **Alessandra Bonilla** | [pageale][pageale] | Each day is a opportunity to learn
-new things,
+new things.
 
 
 
@@ -295,5 +295,4 @@ new things,
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
-[pageale]: https://github.com/pageale>
-< 
+[pageale]: <https://github.com/pageale> 
