@@ -283,8 +283,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-
-
+**Pol Jardi** | [Pol264][Pol264] | Actually I'm the last one 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
 [deliaBlue]: <iris.mestres@alum.esci.upf.edu>
@@ -293,3 +292,4 @@ And finally, you are ready to go! Or at least you should be...
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
+[Pol264]: <https://github.com/Pol264>
