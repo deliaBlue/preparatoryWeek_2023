@@ -283,10 +283,7 @@ And finally, you are ready to go! Or at least you should be...
 
 ### Junior Contributors
 
-**Jaume Jurado** | [Contact me][JJS1440] | Phrase bla bla bla...
-
-[JJS1440]: <https://github.com/JJS1440>
-
+**Jaume Jurado** | [JJS1440][JJS1440] | Phrase bla bla bla...
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
 [deliaBlue]: <iris.mestres@alum.esci.upf.edu>
@@ -294,4 +291,5 @@ And finally, you are ready to go! Or at least you should be...
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
+[JJS1440]: <jaume.jurado@alum.esci.upf.edu>
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
