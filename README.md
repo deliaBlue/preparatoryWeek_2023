@@ -283,6 +283,9 @@ And finally, you are ready to go! Or at least you should be...
 
 
 ### Junior Contributors
+**Carmen Samedi** [carmensat][carmensat] follow the white rabbit 
+
+[carmensat]:<https://github.com/carmensat>
 
 **Antonio Arcas** | [Contact me][oprana22] | Daisy thought that Comet was a
 planet.
