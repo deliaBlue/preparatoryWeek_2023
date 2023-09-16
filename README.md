@@ -287,7 +287,7 @@ And finally, you are ready to go! Or at least you should be...
 **Antonio Arcas** | [Contact me][oprana22] | Daisy thought that Comet was a
 planet.
 
-**Tassnime Reddahi** | [Tassnimered]"Let me infect you with some of my positive
+**Tassnime Reddahi** | [Tassnimered][Tassnimered] | "Let me infect you with some of my positive
  energy"
  
 
