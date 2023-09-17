@@ -287,6 +287,8 @@ And finally, you are ready to go! Or at least you should be...
 **Antonio Arcas** | [Contact me][oprana22] | Daisy thought that Comet was a
 planet.
 
+**Jan Izquierdo** | [Contact me][Janek21] | Random word generator: joy vanity and regret met
+
 **Tassnime Reddahi** | [Tassnimered][Tassnimered] | "Let me infect you with some of my positive
  energy"
  
@@ -298,6 +300,7 @@ planet.
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
+[Janek21]: <https://github.com/Janek21/>
 [oprana22]: <https://github.com/oprana22> 
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
 [Tassnimered]: <https://github.com/Tassnimered>
