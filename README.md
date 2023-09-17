@@ -287,6 +287,8 @@ And finally, you are ready to go! Or at least you should be...
 **Antonio Arcas** | [Contact me][oprana22] | Daisy thought that Comet was a
 planet.
 
+**Laia Barcenilla** | [laiabm04][laiabm04] | I play tennis.
+
 **Tassnime Reddahi** | [Tassnimered][Tassnimered] | "Let me infect you with some of my positive
  energy"
  
@@ -300,4 +302,5 @@ planet.
 [IPerM]: <ian.perez@alum.esci.upf.edu>
 [oprana22]: <https://github.com/oprana22> 
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
+[laiabm04]: <https://github.com/laiabm04>
 [Tassnimered]: <https://github.com/Tassnimered>
