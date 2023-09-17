@@ -289,7 +289,7 @@ planet.
 
 **Jan Izquierdo** | [Contact me][Janek21] | Random word generator: joy vanity and regret met
 
-**Tassnime Reddahi** | [Tassnimered]"Let me infect you with some of my positive
+**Tassnime Reddahi** | [Tassnimered][Tassnimered] | "Let me infect you with some of my positive
  energy"
  
 
