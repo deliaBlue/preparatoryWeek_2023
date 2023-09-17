@@ -34,7 +34,6 @@ preparatory week. We hope you enjoy these days as much as we did preparing them!
 2. [The Coolest Team Ever!](#contributors)
     - [The Juniors also Rock!](#junior-contributors)
 
-
 ## Installation
 
 ### Linux
@@ -282,9 +281,19 @@ And finally, you are ready to go! Or at least you should be...
 
 **Iris Mestres** | [Contact me][deliaBlue]
 
+
 ### Junior Contributors
 
+
+**Antonio Arcas** | [Contact me][oprana22] | Daisy thought that Comet was a
+planet.
+
 **Maria Lopez** | [Contact me][MLM19] | No loses, with each crisis I either succeed or learn. 
+
+**Tassnime Reddahi** | [Tassnimered][Tassnimered] | "Let me infect you with some of my positive
+ energy"
+ 
+
 
 
 [AlbaJimLup]: <alba.jimenez@alum.esci.upf.edu>
@@ -293,6 +302,7 @@ And finally, you are ready to go! Or at least you should be...
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
-[MLM19]: <maria.lopez@alum.esci.upf.edu> 
+[oprana22]: <https://github.com/oprana22> 
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
-
+[MLM19]: <maria.lopez@alum.esci.upf.edu> 
+[Tassnimered]: <https://github.com/Tassnimered>
