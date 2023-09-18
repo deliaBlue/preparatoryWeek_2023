@@ -288,7 +288,11 @@ And finally, you are ready to go! Or at least you should be...
 **Antonio Arcas** | [Contact me][oprana22] | Daisy thought that Comet was a
 planet.
 
+
+
 **Maria Lopez** | [Contact me][MLM19] | No loses, with each crisis I either succeed or learn. 
+
+**Stephanie Padilla** | [MStephPad] [MStephPad] | Coffee is life.
 
 **Tassnime Reddahi** | [Tassnimered][Tassnimered] | "Let me infect you with some of my positive
  energy"
@@ -307,4 +311,5 @@ planet.
 [oprana22]: <https://github.com/oprana22> 
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
 [MLM19]: <maria.lopez@alum.esci.upf.edu> 
+[MStephPad]: <https://github.com/MstephPad>
 [Tassnimered]: <https://github.com/Tassnimered>
