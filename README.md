@@ -293,6 +293,7 @@ planet.
 **Tassnime Reddahi** | [Tassnimered][Tassnimered] | "Let me infect you with some of my positive
  energy"
  
+**Irene Porta** | [IrenePorta][IrenePorta] | I'm a chill person, my mind is not. 
 
 
 
@@ -302,6 +303,7 @@ planet.
 [gitcli]: <https://cli.github.com/>
 [homebrew]: <https://brew.sh/>
 [IPerM]: <ian.perez@alum.esci.upf.edu>
+[IrenePorta]: <https://github.com/IrenePorta>
 [oprana22]: <https://github.com/oprana22> 
 [passphrase]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases>
 [MLM19]: <maria.lopez@alum.esci.upf.edu> 
