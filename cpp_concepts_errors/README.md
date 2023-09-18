@@ -294,7 +294,7 @@ int main() {
     cout << "Incorrect ratio: " << ratio << endl;       // <-- prints 0
 
     // Correct calculation: type casting before division
-    ratio = static_cast<float>(distance1) / distance2;
+    ratio = (float) distance1  / distance2;
     cout << "Correct ratio: " << ratio << endl;         // <-- print 0.01
 
     return 0;
@@ -310,10 +310,10 @@ Correct ratio: 0.01
 
 As we can see, the division between integers results in an integer itself, 
 which 'truncates' the result to 0 thereby generating an incorrect result. By 
-casting one of the integers as a float (`static_cast<float>(distance1)`) we 
+casting one of the integers as a float (`(float) distance1 `) we 
 can resolve this issue in a really straightforward manner! Note that no error 
 is raised **because the division between integers returning an integer is 
-perfectly valid**, we just have to understand that behaviour!
+perfectly valid behaviour**, we just have to understand that behaviour!
 
 <details>
 <summary>
@@ -429,25 +429,16 @@ bjb
 
 dbj@dbj:~/new_repo/code_snippets$
 ```
-	 ·   ·  · · · ·
-     j   j  � � � �
-     j   j  b b b � 
-     j   j  b j b �
-    
- 𝐣:  0   1  3 4 5 6  ..
-     └───┘
- 𝐛: -2  -1  0 1 2 3  ..
-            └───┘
 
 There are three things to higlight with this example (see image for more context):
 
 ![Overflow](graphical_assets/overflow_shown.jpeg)
 
 First, notice that our code is printing from j[0] to j[6] - since `j` and `b` 
-are adjacent to each other, we see their contents interpreted as integers in 
+are adjacent to each other, we see their contents (interpreted as integers) in 
 each of the for loops.
 
-Second, notice that our first initialization of `j` assigned the string "jjj", 
+Second, notice that our first initialization of `j` assigned the string "jjj",
 but when we print the contents of `j` we only get "jj" and when print the 
 bytes from j[0 .. 6] only the first two seem to have been assigned. As shown 
 in the image, only j[0] and j[1] are regions of memory that the compiler has 
@@ -463,6 +454,25 @@ belongs to `b` where j[3] corresponds to b[1]. This demonstrates the that you
 have full autonomy over how memory is used within your program, and should 
 serve as a reminder that variables are just pointing to some region in 
 memory.
+
+
+If you edit this code so that it prints out `j` after `b` has been initialized
+, why doesn't it print `"jj"`? Why does it print out `"jjbjb"`?
+
+Remember that `char arrays` are delimited by `null` characters. When you try 
+to print out the contents of `j`, the `printf` function is going to interpret 
+each byte from `j[0]` onwards as a char **until it finds a `null char` **. 
+Since it doesn't find a `null char`, it simply keeps on printing, and the 
+contents of `b` is right next to the contents of `j`, so we see `"jjbjb"`!
+
+You should also consider that here isn't any assurances that printing `j` will 
+result in `"jj"`, even before `b` is declared! Only two bytes have been 
+allocated to `j`, when we would actually need an array of size 3 to hold the 
+`null char` that delimits the end of `j`. In other words, if we don't
+indicate the termination of the char array, or if we overshoot (`j` cannot
+hold more than 2 chars, and yet we initialize it as "jjj") then we will
+get **undefined behaviour**!
+
 
 ## Pass by Reference vs. Pass by value
 
@@ -564,13 +574,14 @@ type string (`seq`). Then, we invoke the `reverseComplement` function by calling
 This is an example of variable passing (i.e argument passing) known as `Pass By Value` 
 
 The parameter of function `reverseComplement` is a string datatype, and we are 
-'passing' data by calling the function with some value `reverseComplement( some
-\_value )` - in our case, some_value is string `seq`. Calling this function 
-which receives the value of variable `seq` will declare a new variable (
-reverseComplement's `input\_seq`) and it will initialize this variable with 
-the value that was passed as argument in the function call. This variable is 
-only available within the scope of the funciton[^stack_function_frames] and 
-will no longer exist after the function call is terminated. 
+'passing' data by calling the function with some value 
+`reverseComplement( some_value )` - in our case, some_value is string `seq`. 
+Calling this function which receives the value of variable `seq` will declare a 
+new variable ( `reverseComplement`'s `input_seq`) and it will initialize this 
+variable with the value that was passed as argument in the function call. This 
+variable is only available within the scope of the funciton
+[^stack_function_frames] and will no longer exist after the function call is
+terminated. 
 
 We are declaring a variable of the same type, initializing it with the same
 value, available within the scope of the function - we are making a copy!
@@ -598,7 +609,7 @@ structures because it involves copying all the data.
 Pointers are a datatype that do **precisely what their name suggests**. They 
 literally "point" to a location in memory. A pointer stores the memory address 
 of another variable. For example, if you have variable `seq`, then a pointer 
-`ptr\_to\_seq` could hold the memory address of `seq`. This pointer can then be 
+`ptr_to_seq` could hold the memory address of `seq`. This pointer can then be 
 passed to a function, which can be dereferenced to access or modify the 
 original variable `seq`.
 
@@ -685,7 +696,7 @@ string reverseComplement( string & input_seq ) {
 ```
 
 Lets see a very basic model that could be helpful. Consider a function 
-`foo( param\_a )` that receives some string and returns its length. The 
+`foo( param_a )` that receives some string and returns its length. The 
 following would correspond to the sequence of steps that would transpire if 
 we used pass by value:
 
@@ -1062,6 +1073,9 @@ dbj@dbj:~/laPrepa/concepts_errors/code_snippets$
 
 </summary>
 
+
+
+
 ##### Conversion from one data type to another
 
 
@@ -1080,6 +1094,30 @@ convert (`invalid conversion`) the array of chars it expected
 
 
 </details>
+
+<details>
+<summary>
+
+#### Solution
+
+</summary>
+<br> 
+
+```c++
+#include <iostream>
+
+int main() {
+    char myChar = 'a';
+    
+    std::cout << myChar << std::endl;
+
+    return 0;
+}
+
+```
+
+</details>
+
 
 Now lets look at a larger piece of code, and lets try to figure out the errors 
 at hand.
@@ -1243,7 +1281,7 @@ same name, which definition/implementation should the compiler use?
 In C++ it's quite straightforward: you can't have two functions with the same 
 name AND the same parameters. But a dangerous feature known as overloading 
 exists, which is why our program can have a function called `reverse` and the 
-` std::reverse` within the same script.
+`std::reverse` within the same script.
 
 Although it hasn't raised an error, it is highly recommended that you leave 
 the names of standard functions as they are. Thus, instead of `string reverse` 
@@ -1291,7 +1329,6 @@ int main(){
 
     cout << "Input DNA seq\n" ;
     cin >> seq;
-    //seq = "AAAAAAAA";
     reversed_seq = reverse( seq );
     cout << "The reverse complemnt is " << reversed_seq << endl     // <-- missing something
 
@@ -1307,7 +1344,7 @@ string reverse( string input_seq ) { 		// <-- pass by ref or pass by value?
 
     string reverseStr;
 
-    for (int i = 0, i < input_seq.length(), i++){       // <-- incorrect separator for `init` `condition` `increment`
+    for (int i = 0, i < input_seq.length(), i++){       // <-- incorrect separator for (`init`;`condition`;`increment`)
         reverseStr += complement[ input_seq[ i ] ];
     }
 
@@ -1318,6 +1355,59 @@ string reverse( string input_seq ) { 		// <-- pass by ref or pass by value?
 ```
 
 </details>
+
+<details>
+<summary>
+
+#### Solution
+
+</summary>
+<br> 
+
+```c++
+#include <algorithm>
+#include <iostream>
+#include <string>
+#include <map>
+
+using namespace std; 
+
+string reverseComplement( string & input_seq ); 
+
+int main(){
+    string seq; 
+    string reversed_seq; 
+
+    cout << "Input DNA seq" << endl;
+    cin >> seq;
+    reversed_seq = reverseComplement( seq );
+    cout << "The reverse complemnt is " << reversed_seq << endl;
+
+}
+
+string reverseComplement( string & input_seq ) {
+    map< char , char > complement;
+    
+    complement[ 'A' ] = 'T';
+    complement[ 'T' ] = 'A';
+    complement[ 'C' ] = 'G';
+    complement[ 'G' ] = 'C';
+
+    string reverseStr;
+    
+    for (int i = 0; i < input_seq.length(); i++){
+        reverseStr += complement[ input_seq[ i ] ];
+    }
+    
+    reverse( reverseStr.begin(), reverseStr.end() ); 
+
+    return( reverseStr ); 
+}
+
+```
+
+</details>
+
 
 
 ## Run-Time Errors
@@ -1351,7 +1441,7 @@ float calculate_gc_content(string& sequence) {
 
     // G's and C's present, prevent truncation from integer division
     if (gc_count != 0) {
-        return static_cast<float>( gc_count ) / total_sequence; 
+        return (float) gc_count / total_sequence; 
     }
     
     // G's and C's not present, meaning truncation is not a problem
@@ -1385,6 +1475,18 @@ GC content: 0.625
 <br> 
 
 Try an empty string by modifying the input to the function, what will happen?
+Just modify `string dna_sequence = "AATGCGGG";`, or even better make the
+program read from `stdin` via `cin` so that you can test real-time inputs!
+
+
+* Also consider the following:
+	*	Is the second `if` necessary?
+	*	Do I need to check if each char is ATCG?
+	*	Do I know the sequence length before hand?
+
+
+
+
 
 </details>
 
@@ -1413,6 +1515,55 @@ Floating point exception (core dumped)
 ```
 
 What would be a solution to this floating point exception? 
+
+</details>
+
+<details>
+<summary>
+
+#### Solution
+
+</summary>
+<br>
+
+One possibility would be to simply check whether the sequence is of non-zero
+length before we enter the body of the function.
+
+
+```c++
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+float calculate_gc_content(string& sequence) {
+    if (sequence.length() == 0){                   // check size!
+        return 0; 
+    }
+
+    int gc_count = 0;
+    int total_sequence = 0;
+
+    for ( int i = 0; i < sequence.length(); i++) {
+        if (sequence[i] == 'G' || sequence[i] == 'C') {
+            gc_count++;
+        }                                          // removed redundnat `if`
+    }
+
+    return gc_count / sequence.length();           // using sequence.length()
+}
+
+int main() {
+    
+    string dna_sequence = "";                      // works with empty str
+
+    float gc_content = calculate_gc_content(dna_sequence);
+    cout << "GC content: " << gc_content << endl;
+
+    return 0;
+}
+
+```
 
 </details>
 
@@ -1476,7 +1627,6 @@ The problematic line is `if ( dna[i] = 'G' )` but could you tell us why?
 </summary>
 <br>
 
-
 In c++, the assignment operation returns the value of 
 the thing being assigned. For example:
 
@@ -1510,6 +1660,34 @@ r
 
 As we can see, the assignment operation simply returns the value of whatever 
 is being assigned. Remember that 0 is false and everything else is true. 
+So what happens if instead of writting `==` we write `=` inside of a 
+conditional?
+
+
+</details>
+
+<details>
+<summary>
+
+#### Solution
+
+</summary>
+<br>
+
+The reason why `if ( dna[i] = 'G' )` is problematic is because we are using `=`
+instead of `==` here. When the program is executed, this line of code seems
+perfectly reasonable to the compiler. When we evaluate `if ( dna[i] = 'G' )`
+it's as if we are evaluating `'if 'G'`. The `if` statement is true because the
+`char` 'G' is non-zero (check an ascii table if you're curious what value it 
+actually has, or maybe print it as an integer!).
+
+Remember, an assignment simply returns the value of what is assigned.
+
+So our problematic implementation silently converts all elements of `dna`
+string into 'G'´s whilst the if statement is evaluated as true. No error is
+raised because this is perfectly reasonable code, it just isn't doing what you
+want it to.
+
 
 
 </details>
