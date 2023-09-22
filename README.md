@@ -283,6 +283,7 @@ And finally, you are ready to go! Or at least you should be...
 
 
 ### Junior Contributors
+**Ricard Garcia* |[Contact me][rigais23] | Llívia capital del món!
 
 
 **Antonio Arcas** | [Contact me][oprana22] | Daisy thought that Comet was a
